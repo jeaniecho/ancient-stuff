@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2884A916-F983-76B9-5683-2DE3627F8E6E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScreenChanger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScreenChanger.cs" Line="51" Column="36" />
+      <File FileName="Assets/Santa.cs" Line="22" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
