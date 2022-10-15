@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/End.cs" Line="8" Column="22" />
+      <File FileName="Assets/Player.cs" Line="45" Column="29" />
+      <File FileName="Assets/Rotator.cs" />
+      <File FileName="Assets/FollowPlayer.cs" />
+      <File FileName="Assets/Menu.cs" />
+      <File FileName="Assets/moving.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
